@@ -2,20 +2,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- HTML -->
+  <!-- HTML 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  -->
   
-  <!-- CSS -->
+  <!-- CSS 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  -->
   
-  <!-- JavaScript -->
+  <!-- JavaScript 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-
-  <!-- TypeScript -->
+  -->
+  
+  <!-- TypeScript 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-
-  <!-- React -->
+  -->
+  
+  <!-- React 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  -->
   
   <!-- C# -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
